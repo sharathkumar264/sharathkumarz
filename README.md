@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sharathkumar
 - 👀 I’m interested in computers and tech gadgets
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on android projects
-- 📫 How to reach me ==> vist: sk.xpertxyz.in
-- 😄 Pronouns: 
+- 🌱 I’m currently working as firm ware engineer
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: just learn..😒😒
